@@ -15,14 +15,18 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
 
 ## Experience
 
-- **Research Scientist** <p>Meta (Jun 2022 - Present)</p>
+- **Research Scientist**
+  Meta (Jun 2022 - Present)
    - Led a perceptual testbed development for the pupil steering system applicable for AR/VR systems. Designed a perceptual model that comprehensively predicts the visual artifacts raised by the pupil steering. (<a href="https://dl.acm.org/doi/10.1145/3641519.3657486"><autocolor>academic paper</autocolor></a>)
-- **Staff Engineer** <p>Samsung Electronics (Sep 2020 - Apr 2022)</p>
+- **Staff Engineer**
+  Samsung Electronics (Sep 2020 - Apr 2022)
    - Developed AR glasses solution that supports adaptive focus that stimulates accurate accommodation.
    - Implemented a wave optics simulation pipeline to minimize the perceptual artifacts from the AR glasses eye piece.
-- **Contingent Worker** <p>Facebook Reality Labs (Dec 2019 - Jun 2020)</p>
+- **Contingent Worker**
+  Facebook Reality Labs (Dec 2019 - Jun 2020)
   - Published the academic research paper, <a href="https://www.nature.com/articles/s41598-020-72555-w"><autocolor>"Foveated near-eye display for mixed reality using liquid crystal photonics"</autocolor></a>, at Scientific Reports.
-- **Visiting Researcher**  <p>Facebook Reality Labs (Mar 2019 - Sep 2019)</p>
+- **Visiting Researcher**
+  Facebook Reality Labs (Mar 2019 - Sep 2019)
    - Designed the optical system and implemented a prototype for a foveated near-eye display system leveraging holography, polarization optics, and liquid crystal optics.
    - Developed a novel exposure system with the polarization management, extending the design and fabrication capability of the liquid crystal elements.
  
