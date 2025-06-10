@@ -2,14 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
-I am a Ph.D. student at Seoul National University
+I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR solutions to overcome current optical challenges. With expertise in holography, light field, near-eye display, and visual perception, I had published over 28 research articles in peer-reviewed scientific journals. Before joining Meta, I had worked for 2 years at Samsung Research, where I was also dedicated to develop AR glasses technologies.
 
-## Research Interests
+## My research interests and expertise include
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Optical system development for AR glasses** 
+- **End-to-end optical modeling to comprehend the perceptual impact from the complex system**
+- **Computational 3D displays and imaging, including holography and light field** 
+- **Optical component development (e.g., liquid crystal or holographic optical elements)** 
 
 ## News
 
