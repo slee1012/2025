@@ -32,9 +32,9 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
  
 ## Education
 
-- **Seoul National University**
+ **Seoul National University**
 - Doctor of Philosophy - PhD Electrical and Computer Engineering (2015 - 2020)
-   PhD thesis:<strong>"Computational Volumetric Near-Eye Displays Providing Accommodation in Wide Depth of Field"</strong>
+  <br>PhD thesis:<strong>"Computational Volumetric Near-Eye Displays Providing Accommodation in Wide Depth of Field"</strong></br>
 - Bachelor's degree Electrical and Computer Engineering (2010 - 2015)
 
 
