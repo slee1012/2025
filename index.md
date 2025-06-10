@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR solutions to overcome current optical challenges. With expertise in holography, light field, near-eye display, and visual perception, I had published over 28 research articles in peer-reviewed scientific journals. Before joining Meta, I had worked for 2 years at Samsung Research, where I was also dedicated to develop AR glasses technologies.
 
-## My research interests and expertise include
+## Research interests&Expertise include
 
 - **Optical system development for AR glasses** 
 - **End-to-end optical modeling to comprehend the perceptual impact from the complex system**
