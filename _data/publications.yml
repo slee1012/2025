@@ -13,14 +13,14 @@ consideration of speckle contrast, resolution, and depth of field
     authors: <strong>Seungjae Lee</strong>, D. Kim*, S.-W. Nam, B. Lee, J. Cho, and B. Lee
     conference_short: Scientific Reports
     conference: Scientific Reports
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3641519.3657486
-    image: ./assets/img/02.png
+    pdf: https://www.nature.com/articles/s41598-020-75947-0
+    image: ./assets/img/03.png
     notes: co-first author
 
      - title: Tomographic near-eye displays 
     authors: <strong>Seungjae Lee</strong>, Y. Jo, D. Yoo, J. Cho, D. Lee, and B. Lee
     conference_short: Nature Communications
     conference: Nature Communications
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3641519.3657486
-    image: ./assets/img/02.png
+    pdf: https://www.nature.com/articles/s41467-019-10451-2
+    image: ./assets/img/04.png
     notes: First author
