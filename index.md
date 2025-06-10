@@ -13,13 +13,24 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
 - **Computational 3D displays and imaging, including holography and light field** 
 - **Optical component development (e.g., liquid crystal or holographic optical elements)** 
 
-## News
+## Experience
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Research Scientist** Meta (Jun 2022 - Present)
+  Led a perceptual testbed development for the pupil steering system applicable for AR/VR systems. Designed a perceptual model that comprehensively predicts the visual artifacts raised by the pupil steering. (academic paper: https://dl.acm.org/doi/10.1145/3641519.3657486)
+- **Staff Engineer** Samsung Electronics (Sep 2020 - Apr 2022)
+   - Developed AR glasses solution that supports adaptive focus that stimulates accurate accommodation.
+   - Implemented a wave optics simulation pipeline to minimize the perceptual artifacts from the AR glasses eye piece.
+- **Contingent Worker** Facebook Reality Labs (Dec 2019 - Jun 2020)
+  - Published the academic research paper, "Foveated near-eye display for mixed reality using liquid crystal photonics", at Scientific Reports. (link to the paper: https://www.nature.com/articles/s41598-020-72555-w)
+- **Visiting Researcher** Facebook Reality Labs (Mar 2019 - Sep 2019)
+   - Designed the optical system and implemented a prototype for a foveated near-eye display system leveraging holography, polarization optics, and liquid crystal optics.
+   - Developed a novel exposure system with the polarization management, extending the design and fabrication capability of the liquid crystal elements.
+ 
+## Education
 
+- **Seoul National University**
+- Doctor of Philosophy - PhD Electrical and Computer Engineering (2015 - 2020)
+   PhD thesis:**"Computational Volumetric Near-Eye Displays Providing Accommodation in Wide Depth of Field" **
+- Bachelor's degree Electrical and Computer Engineering (2010 - 2015)
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
