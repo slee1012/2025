@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>SPIE Feb 2019</autocolor></li>
-</ul
+</ul>
   
 <h4 style="margin:0 10px 0;">2017 IEEE Access Best Multimedia Contest Part 2 Promotional Prize</h4>
 
