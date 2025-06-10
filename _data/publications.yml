@@ -3,9 +3,9 @@ main:
   - title: Perceptual Evaluation of Steered Retinal Projection
     authors: <strong>Seungjae Lee</strong>, Seung-Woo Nam, Kevin Rio, Renate Landig, Hsien-Hui Cheng, Lu Lu, Barry 
     conference_short: SIGGRAPH '24
-    conference: SIGGRAPH '24
+    conference: SIGGRAPH 2024
     pdf: https://dl.acm.org/doi/pdf/10.1145/3641519.3657486
-    image: ./assets/img/01.png
+    image: ./assets/img/02.png
     notes: Early Accept
 
   - title: "Tomographic projector: large scale volumetric display with uniform viewing experiences"
