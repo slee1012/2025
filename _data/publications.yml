@@ -8,7 +8,7 @@ main:
     image: ./assets/img/02.png
     notes: co-first author
 
-   - title: Light source optimization for partially coherent holographic displays with 
+  - title: Light source optimization for partially coherent holographic displays with 
 consideration of speckle contrast, resolution, and depth of field 
     authors: <strong>Seungjae Lee</strong>, D. Kim*, S.-W. Nam, B. Lee, J. Cho, and B. Lee
     conference_short: Scientific Reports
@@ -17,7 +17,7 @@ consideration of speckle contrast, resolution, and depth of field
     image: ./assets/img/03.png
     notes: co-first author
 
-     - title: Tomographic near-eye displays 
+  - title: Tomographic near-eye displays 
     authors: <strong>Seungjae Lee</strong>, Y. Jo, D. Yoo, J. Cho, D. Lee, and B. Lee
     conference_short: Nature Communications
     conference: Nature Communications
