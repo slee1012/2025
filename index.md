@@ -32,5 +32,8 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
 - Doctor of Philosophy - PhD Electrical and Computer Engineering (2015 - 2020)
    PhD thesis:**"Computational Volumetric Near-Eye Displays Providing Accommodation in Wide Depth of Field" **
 - Bachelor's degree Electrical and Computer Engineering (2010 - 2015)
+
+
+  
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
