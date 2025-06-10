@@ -16,7 +16,7 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
 ## Experience
 
 - **Research Scientist** Meta (Jun 2022 - Present)
-  Led a perceptual testbed development for the pupil steering system applicable for AR/VR systems. Designed a perceptual model that comprehensively predicts the visual artifacts raised by the pupil steering. (academic paper: https://dl.acm.org/doi/10.1145/3641519.3657486)
+ - Led a perceptual testbed development for the pupil steering system applicable for AR/VR systems. Designed a perceptual model that comprehensively predicts the visual artifacts raised by the pupil steering. (academic paper: https://dl.acm.org/doi/10.1145/3641519.3657486)
 - **Staff Engineer** Samsung Electronics (Sep 2020 - Apr 2022)
    - Developed AR glasses solution that supports adaptive focus that stimulates accurate accommodation.
    - Implemented a wave optics simulation pipeline to minimize the perceptual artifacts from the AR glasses eye piece.
