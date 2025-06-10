@@ -1,16 +1,26 @@
 main:
 
   - title: Perceptual Evaluation of Steered Retinal Projection
-    authors: <strong>Seungjae Lee</strong>, Seung-Woo Nam, Kevin Rio, Renate Landig, Hsien-Hui Cheng, Lu Lu, Barry 
+    authors: <strong>Seungjae Lee</strong>, S.-W. Nam*, K. Rio, R. Landig, H.-H. Cheng, L. Lu, and B. Silverstein
     conference_short: SIGGRAPH '24
     conference: SIGGRAPH 2024
     pdf: https://dl.acm.org/doi/pdf/10.1145/3641519.3657486
     image: ./assets/img/02.png
-    notes: Early Accept
+    notes: co-first author
 
-  - title: "Tomographic projector: large scale volumetric display with uniform viewing experiences"
-    authors: Youngjin Jo, <strong>Seungjae Lee</strong>, Dongheon Yoo, Suyeon Choi, Dongyeon Kim, Byoungho LeeAuthors Info & Claims
-    conference_short: ACM Transactions on Graphics
-    conference: ACM Transactions on Graphics (TOG), Volume 38, Issue 6
+   - title: Light source optimization for partially coherent holographic displays with 
+consideration of speckle contrast, resolution, and depth of field 
+    authors: <strong>Seungjae Lee</strong>, D. Kim*, S.-W. Nam, B. Lee, J. Cho, and B. Lee
+    conference_short: Scientific Reports
+    conference: Scientific Reports
     pdf: https://dl.acm.org/doi/pdf/10.1145/3641519.3657486
-    image: ./assets/img/01.png
+    image: ./assets/img/02.png
+    notes: co-first author
+
+     - title: Tomographic near-eye displays 
+    authors: <strong>Seungjae Lee</strong>, Y. Jo, D. Yoo, J. Cho, D. Lee, and B. Lee
+    conference_short: Nature Communications
+    conference: Nature Communications
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3641519.3657486
+    image: ./assets/img/02.png
+    notes: First author
