@@ -16,19 +16,26 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
 ## Experience
 
 - **Research Scientist** <br>
-  <span style="color:gray;">Meta (Jun 2022 - Present)</span>
-   - Led a perceptual testbed development for the pupil steering system applicable for AR/VR systems. Designed a perceptual model that comprehensively predicts the visual artifacts raised by the pupil steering. (<a href="https://dl.acm.org/doi/10.1145/3641519.3657486"><u>academic paper</u></a>)
+  <span style="color:gray;">Meta (Jun 2022 - Present)</span>  
+  – Led a perceptual testbed development for the pupil steering system applicable to AR/VR systems.  
+  – Designed a perceptual model that comprehensively predicts the visual artifacts raised by pupil steering.  
+  – (<a href="https://dl.acm.org/doi/10.1145/3641519.3657486" style="text-decoration: none;"><i>academic paper</i></a>)
+
 - **Staff Engineer** <br>
-  <span style="color:gray;">Samsung Electronics (Sep 2020 - Apr 2022)</span>
-   - Developed AR glasses solution that supports adaptive focus that stimulates accurate accommodation.
-   - Implemented a wave optics simulation pipeline to minimize the perceptual artifacts from the AR glasses eye piece.
+  <span style="color:gray;">Samsung Electronics (Sep 2020 - Apr 2022)</span>  
+  – Developed an AR glasses solution supporting adaptive focus for accurate accommodation.  
+  – Implemented a wave optics simulation pipeline to minimize perceptual artifacts from the AR eyepiece.
+
 - **Contingent Worker**<br>
-  <span style="color:gray;">Facebook Reality Labs (Dec 2019 - Jun 2020)</span>
-  - Published the academic research paper, <a href="https://www.nature.com/articles/s41598-020-72555-w"><u>"Foveated near-eye display for mixed reality using liquid crystal photonics"</u></a>, at Scientific Reports.
+  <span style="color:gray;">Facebook Reality Labs (Dec 2019 - Jun 2020)</span>  
+  – Published the academic research paper,  
+  <a href="https://www.nature.com/articles/s41598-020-72555-w" style="text-decoration: none;"><i>"Foveated near-eye display for mixed reality using liquid crystal photonics"</i></a>, in *Scientific Reports*.
+
 - **Visiting Researcher**<br>
-  <span style="color:gray;">Facebook Reality Labs (Mar 2019 - Sep 2019)</span>
-   - Designed the optical system and implemented a prototype for a foveated near-eye display system leveraging holography, polarization optics, and liquid crystal optics.
-   - Developed a novel exposure system with the polarization management, extending the design and fabrication capability of the liquid crystal elements.
+  <span style="color:gray;">Facebook Reality Labs (Mar 2019 - Sep 2019)</span>  
+  – Designed and prototyped a foveated near-eye display system using holography, polarization optics, and liquid crystal optics.  
+  – Developed a novel exposure system with polarization management, extending the design and fabrication capabilities of liquid crystal elements.
+
  
 ## Education
 
