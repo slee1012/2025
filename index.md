@@ -37,7 +37,7 @@ I'm a research scientist at Meta Reality Labs, where I pioneer innovative AR sol
  
 ## Education
 
-<img src="/assets/img/snu.png" alt="SNU Logo" style="height:1em; vertical-align:middle; margin-right:6px;"> **Seoul National University**  
+<img src="/assets/img/snu.png" alt="SNU Logo" style="height:1.7em; vertical-align:middle; margin-right:6px;"> **Seoul National University**  
 - **Ph.D.** in Electrical and Computer Engineering, 2015–2020  
   Dissertation: *Computational Volumetric Near-Eye Displays Providing Accommodation in Wide Depth of Field* Advisor: Prof. Byoungho Lee  
 - **B.S.** in Electrical and Computer Engineering, 2010–2015  
